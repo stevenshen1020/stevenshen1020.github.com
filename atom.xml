@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Steven's Blog]]></title>
+  <link href="http://stevenshen1020.github.com/atom.xml" rel="self"/>
+  <link href="http://stevenshen1020.github.com/"/>
+  <updated>2012-10-26T17:25:24+08:00</updated>
+  <id>http://stevenshen1020.github.com/</id>
+  <author>
+    <name><![CDATA[Steven Shen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
